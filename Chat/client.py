@@ -10,7 +10,7 @@ HEADER = 64
 PORT = 5050
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
-SERVER = "192.168.100.24"
+SERVER = "address ip that you put in the file server.py"
 ADDR = (SERVER,PORT)
 NAME=""
 

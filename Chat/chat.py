@@ -8,7 +8,7 @@ HEADER = 64
 PORT = 5060
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
-SERVER = "192.168.100.24"
+SERVER = "address ip that you put in the server.py"
 ADDR = (SERVER,PORT)
 NAME=""
 
